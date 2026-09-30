@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" requires="ezpublish 6.0">
-  <name>expsite_core</name>
+  <name>Exponential Site Core</name>
   <summary>Site helper classes (breadcrumb path, redirect, mail) for Exponential CMS. Ported from netgen/site-bundle.</summary>
   <version>1.0.1</version>
   <copyright>7x</copyright>

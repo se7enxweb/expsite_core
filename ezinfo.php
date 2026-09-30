@@ -13,7 +13,7 @@ class expsite_coreInfo
 {
     public static function info()
     {
-        return array( 'Name' => "expsite_core",
+        return array( 'Name' => "Exponential Site Core",
                       'Version' => "1.0.1",
                       'Copyright' => "Copyright (C) 1998 - 2026 7x. All rights reserved.",
                       'License' => "GNU General Public License v2.0 (or any later version)",
