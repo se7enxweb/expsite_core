@@ -8,3 +8,4 @@ ExcludedContentTypes[]
 # Default mail sender if not provided to sendMail()
 SenderEmail=
 SenderName=
+*/ ?>

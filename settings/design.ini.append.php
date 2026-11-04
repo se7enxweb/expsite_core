@@ -2,3 +2,4 @@
 
 [ExtensionSettings]
 DesignExtensions[]=expsite_core
+*/ ?>
